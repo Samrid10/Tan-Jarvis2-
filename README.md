@@ -89,7 +89,7 @@ Speech Output : pyttsx3
 Automation : pyautogui
 GUI : HTML, CSS, JavaScript
 Communication : Python WebSockets
-Fuzzy Logic : fuzzywuzzy
+Fuzzy speech Logic : fuzzywuzzy
 
 CUSTOMIZATION
 
@@ -115,7 +115,7 @@ None currently.
 
 CREDITS
 
-Developed by Sam D
+Developed by Samriddha Das
 Inspired by J.A.R.V.I.S — bringing AI to your desktop.
 
 If you like this project, give it a star on GitHub!
